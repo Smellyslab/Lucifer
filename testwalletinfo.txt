@@ -1,0 +1,9 @@
+Private spend key : e6a7ed970f4dac8d39d0e1cf57ef82b66d8437164dedf51765567fe924fc0702
+Private view key  : 8af10cf20bc2eddcbf29bdd923bb4cb2fd1f08bc52925aeba5c449a7c639a807
+Public spend key  : c192f3e6689f24dddfcd429f86701b74c13b29ac898565940f0c288e94634336
+Public view key   : f0d34fa72f5d9cb0e180095266bfa0fff73533c45bcf9662906626ab62dec930
+Address           : 48xaAqhPdBZe7TZSsXhYr6LXfjpNXpXEcRmMdKgrxvnNABzeJdF6ykPWay2KtJZ9GjjpBsjRGAEDsHVCJRo6VMv86RWkbDE
+
+
+
+just stuff for testing the creation of genesis blocks.
